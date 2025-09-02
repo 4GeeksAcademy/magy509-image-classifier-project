@@ -2,3 +2,8 @@ __pycache__
 .env
 .learn
 *.jpg
+*.png
+*.h5
+*.sav
+data/
+models/
